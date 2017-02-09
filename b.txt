@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a file file file
+=======
+this is bbbbbbbbbbbbbb
+>>>>>>> dev
